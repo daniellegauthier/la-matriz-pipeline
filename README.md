@@ -89,7 +89,7 @@ visualize(seq, mom, pipeline.semantic_df, pipeline.rgb_to_words_map, title="Mome
 
 3D RGB path + sequence strip (seeds auto-labeled with semantic words):
 
-![Example Output](results/sample_strip.png)
+![Example Output](results/example pipeline output.png)
 
 ---
 
